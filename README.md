@@ -17,11 +17,12 @@ My technical writing framework bridges the gap between **scientific accuracy** a
 * **Key Focus:** Strict imperative step sequences, clear safety boundaries (PPE/chemical hazards), and audit-ready pass/fail acceptance criteria.
 * 📄 **[View Document: SOP-QC-012](./docs/sop-qc-012-hplc-calibration.md)**
 ---
-### 2. [Coming Soon] Pre-Clinical Study Protocol & Bioassay Summary
-* **Domain:** Pharmacology & Drug Discovery
-* **Format:** Markdown / PDF
-* **Target Audience:** Principal Investigators (PIs), Clinical Research Associates (CRAs)
-* **Key Focus:** High-level experimental design, ethical compliance, dosing schedules, and data collection parameters.
+### 2. Pre-Clinical Study Protocol & Bioassay Summary
+* **Domain:** In Vivo Pharmacology & Translational Oncology
+* **Format:** Markdown / GLP Compliant Protocol
+* **Target Audience:** Principal Investigators (PIs), Research Associates, IACUC Reviewers
+* **Key Focus:** Dosing architecture, *in vivo* disease modeling, ethical handling parameters, and quantitative biomarker endpoints.
+* 📄 **[View Document: Protocol-002](./docs/protocol-002-preclinical-study.md)**
 ---
 ### 3. [Coming Soon] HealthTech / EHR Software Integration Guide
 * **Domain:** Healthcare SaaS / HealthTech
