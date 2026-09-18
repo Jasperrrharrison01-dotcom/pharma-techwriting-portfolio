@@ -24,11 +24,12 @@ My technical writing framework bridges the gap between **scientific accuracy** a
 * **Key Focus:** Dosing architecture, *in vivo* disease modeling, ethical handling parameters, and quantitative biomarker endpoints.
 * 📄 **[View Document: Protocol-002](./protocol-002-preclinical-study.md)**
 ---
-### 3. [Coming Soon] HealthTech / EHR Software Integration Guide
-* **Domain:** Healthcare SaaS / HealthTech
-* **Format:** Docs-as-Code / API & Workflow Guide
-* **Target Audience:** Healthcare IT Administrators & Clinical Operations
-* **Key Focus:** Step-by-step user onboarding, patient intake workflows, and data sync procedures.
+### 3. HealthTech / EHR Software Integration Guide
+* **Domain:** Healthcare SaaS / HealthTech Interoperability
+* **Format:** Markdown / API & Workflow User Guide
+* **Target Audience:** Clinical Administrators & Healthcare IT Specialists
+* **Key Focus:** Step-by-step OAuth setup, HL7 FHIR field mapping, error troubleshooting tables, and HIPAA compliance handling.
+* 📄 **[View Document: User Guide 003](./docs/user-guide-003-ehr-integration.md)**
 ---
 ## Core Competencies
 
