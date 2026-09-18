@@ -49,21 +49,13 @@ Treatments are administered orally ($p.o.$) for seven (7) consecutive days. On D
    * **Tissue Processing:** Homogenize left kidney parenchyma for biochemical assays; fix right kidney cross-sections (cortex and medulla) in $10\%$ neutral buffered formalin for histopathology.
 ---
 ## 4. Analytical Endpoints & Biomarkers
-+-----------------------------------+---------------------------------------------------+
-| Parameter Category                | Target Biomarkers Evaluated                       |
-+-----------------------------------+---------------------------------------------------+
-| Serum Renal Function Markers     | Serum Creatinine, Blood Urea Nitrogen (BUN),      |
-|                                   | Uric Acid, Total Protein, Bilirubin               |
-+-----------------------------------+---------------------------------------------------+
-| Parenchymal Oxidative Stress     | Malondialdehyde (MDA), Superoxide Dismutase (SOD),|
-|                                   | Catalase (CAT), Glutathione Peroxidase (GPx)     |
-+-----------------------------------+---------------------------------------------------+
-| Inflammatory & Apoptotic Profile  | TNF-α, Interleukin-6 (IL-6), Caspase-3 Expression |
-+-----------------------------------+---------------------------------------------------+
-| Histopathological Evaluation     | Glomerular Atrophy, Tubular Necrosis,             |
-|                                   | Inflammatory Cell Infiltration                    |
-+-----------------------------------+---------------------------------------------------+
 
+| Parameter Category | Target Biomarkers Evaluated |
+| :--- | :--- |
+| **Serum Renal Function Markers** | Serum Creatinine, Blood Urea Nitrogen (BUN), Uric Acid, Total Protein, Bilirubin |
+| **Parenchymal Oxidative Stress** | Malondialdehyde (MDA), Superoxide Dismutase (SOD), Catalase (CAT), Glutathione Peroxidase (GPx) |
+| **Inflammatory & Apoptotic Profile** | TNF-α, Interleukin-6 (IL-6), Caspase-3 Expression |
+| **Histopathological Evaluation** | Glomerular Atrophy, Tubular Necrosis, Inflammatory Cell Infiltration |
 ---
 
 ## 5. Statistical Analysis
