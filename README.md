@@ -22,7 +22,7 @@ My technical writing framework bridges the gap between **scientific accuracy** a
 * **Format:** Markdown / GLP Compliant Protocol
 * **Target Audience:** Principal Investigators (PIs), Research Associates, IACUC Reviewers
 * **Key Focus:** Dosing architecture, *in vivo* disease modeling, ethical handling parameters, and quantitative biomarker endpoints.
-* 📄 **[View Document: Protocol-002](./docs/protocol-002-preclinical-study.md)**
+* 📄 **[View Document: Protocol-002](./protocol-002-preclinical-study.md)**
 ---
 ### 3. [Coming Soon] HealthTech / EHR Software Integration Guide
 * **Domain:** Healthcare SaaS / HealthTech
