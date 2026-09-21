@@ -47,7 +47,7 @@ Ingests structured physiological observation records (e.g., vital signs, lab res
 }
 ---
 
-```markdown
+```
 ### Response (`201 Created`)
 
 ```json
