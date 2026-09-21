@@ -45,7 +45,6 @@ Ingests structured physiological observation records (e.g., vital signs, lab res
     "unit": "beats/min"
   }
 }
----
 
 ```
 ### Response (`201 Created`)
