@@ -45,20 +45,3 @@ Ingests structured physiological observation records (e.g., vital signs, lab res
     "unit": "beats/min"
   }
 }
----
-{
-  "status": "success",
-  "data": {
-    "observation_id": "obs_88f01a39-9d01",
-    "patient_id": "PAT-99482-X",
-    "ingested_at": "2026-09-21T14:30:02.104Z",
-    "sync_status": "QUEUED_FOR_PROCESSING"
-  }
-}
-## Error Handling
-
-| HTTP Status | Error Code | Cause | Resolution |
-| :--- | :--- | :--- | :--- |
-| `400 Bad Request` | `INVALID_TIMESTAMP` | Date format mismatch. | Format timestamp as `YYYY-MM-DDTHH:mm:ssZ`. |
-| `401 Unauthorized` | `EXPIRED_TOKEN` | Bearer token expired. | Re-authenticate using your Client Secret. |
-| `429 Too Many Requests` | `RATE_LIMIT_EXCEEDED` | Request rate > 500/min. | Implement exponential backoff in client logic. |
