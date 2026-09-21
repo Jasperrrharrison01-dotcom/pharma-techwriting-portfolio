@@ -45,3 +45,18 @@ Ingests structured physiological observation records (e.g., vital signs, lab res
     "unit": "beats/min"
   }
 }
+---
+
+```markdown
+### Response (`201 Created`)
+
+```json
+{
+  "status": "success",
+  "data": {
+    "observation_id": "obs_88f01a39-9d01",
+    "patient_id": "PAT-99482-X",
+    "ingested_at": "2026-09-21T14:30:02.104Z",
+    "sync_status": "QUEUED_FOR_PROCESSING"
+  }
+}
